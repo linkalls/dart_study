@@ -4,3 +4,4 @@ environment:
   sdk: '^3.5.0'
 dependencies:
   dio: ^5.7.0
+  dcli: ^6.1.0
